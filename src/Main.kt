@@ -5,4 +5,7 @@ fun main() {
     var Mensaje  = "Prueba 001, se llega hasta aqui vamos bien"
     println(Mensaje)
 
+    var Mensaje1  = "Prueba 002, Siguiente prueba"
+    println(Mensaje1)
+
 }
